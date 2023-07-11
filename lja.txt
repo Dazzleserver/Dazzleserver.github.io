@@ -1,0 +1,83 @@
+因玩家<LL_ei>让<lja>走 <lja>不走反而破坏东西
+
+
+
+
+[12:36:53 INFO]: [Not Secure] <lja> LL_ei来参观下吗
+[12:36:55 INFO]: [Not Secure] <lja> LL_ei来参观下吗
+[12:36:56 INFO]: [Not Secure] <lja> LL_ei来参观下吗
+[12:39:30 INFO]: [Not Secure] <LL_ei> bule
+[12:39:33 INFO]: [Not Secure] <LL_ei> 不了
+[12:39:39 INFO]: [Not Secure] <lja> 来呗
+[12:40:44 INFO]: [Not Secure] <lja> 我到你家了
+[12:40:54 INFO]: [Not Secure] <LL_ei> 别乱动
+[12:41:06 INFO]: LL_ei fell from a high place
+[12:41:06 INFO]: [Not Secure] <lja> 你怎么这么喜欢露天睡觉
+[12:41:18 INFO]: [Not Secure] <LL_ei> 不知道
+[12:41:20 INFO]: [Not Secure] <lja> 6
+[12:41:25 INFO]: [Not Secure] <lja> 来我家参观参观
+[12:41:56 INFO]: [Not Secure] <lja> 来我家参观参观
+[12:42:03 INFO]: [Not Secure] <LL_ei> zoua
+[12:42:34 INFO]: [Not Secure] <lja> 竹子借一根
+[
+[12:44:06 INFO]: [Not Secure] <lja> 出门就是坟
+[12:45:06 INFO]: [Not Secure] <LL_ei> 你知不知道我们服务器有个人连灯笼都偷
+[12:45:13 INFO]: [Not Secure] <lja> 是我
+[12:45:30 INFO]: [Not Secure] <LL_ei> 那为啥要偷呢
+[12:45:34 INFO]: [Not Secure] <lja> 我没有
+[12:45:41 INFO]: [Not Secure] <LL_ei> 自己不会做吗
+[12:45:48 INFO]: [Not Secure] <lja> 穷
+[12:45:58 INFO]: [Not Secure] <LL_ei> 自己不会下矿吗
+[12:46:04 INFO]: [Not Secure] <lja> 附近煤矿懂
+[12:46:09 INFO]: [Not Secure] <lja> 附近没矿洞
+[12:46:18 INFO]: [Not Secure] <LL_ei> 自己不会去找吗
+[12:46:32 INFO]: [Not Secure] <lja> 找不到
+[12:47:29 INFO]: [Not Secure] <lja> 6
+[12:47:34 INFO]: [Not Secure] <LL_ei> 6666
+[12:47:46 INFO]: [Not Secure] <lja> 不犯法但是缺德
+[12:49:17 INFO]: [Not Secure] <LL_ei> 你咋不偷别人就偷我啊
+[12:49:24 INFO]: [Not Secure] <lja> 服务器就你最富
+[12:49:41 INFO]: [Not Secure] <LL_ei> 那我就是给你偷的喽
+[12:49:47 INFO]: [Not Secure] <lja> 不是
+[12:49:57 INFO]: [Not Secure] <lja> 那叫借
+[12:50:00 INFO]: [Not Secure] <lja> 会还你的
+[12:50:48 INFO]: [Not Secure] <LL_ei> 什么时候还呢？
+[12:51:03 INFO]: [Not Secure] <lja> 服务器关闭的前一天
+[12:51:12 INFO]: lja was slain by LL_ei
+[12:51:16 INFO]: [Not Secure] <lja> 别啊
+[12:51:30 INFO]: [Not Secure] <LL_ei> 你这是什么意思呢
+[12:51:39 INFO]: [Not Secure] <lja> 所以借你啥了
+[12:51:41 INFO]: [Not Secure] <lja> 你说
+[12:51:44 INFO]: [Not Secure] <lja> 我给你
+[12:52:20 INFO]: [Not Secure] <LL_ei> 我只觉得某人很恶心啊 借一点东西没关系的
+[12:52:31 INFO]: [Not Secure] <lja> 我还给你一个附魔金苹果
+[12:52:36 INFO]: [Not Secure] <LL_ei> 那还你啊
+[12:52:40 INFO]: [Not Secure] <lja> 不要
+[12:52:55 INFO]: [Not Secure] <LL_ei> 那你自己不要 怪谁啊
+[12:53:05 INFO]: [Not Secure] <lja> 送你了
+[12:53:12 INFO]: [Not Secure] <LL_ei> o
+[12:53:25 INFO]: [Not Secure] <LL_ei> 那你能不能别偷东西了
+[12:53:28 INFO]: [Not Secure] <lja> en
+[12:53:34 INFO]: [Not Secure] <lja> 吃饭
+[12:55:14 INFO]: [Not Secure] <lja> 来看我落地水
+[12:55:59 INFO]: [Not Secure] <LL_ei> zzzz
+[12:58:04 INFO]: [Not Secure] <lja> 看我落地水
+[12:58:41 INFO]: [Not Secure] <lja> 看我落地水
+
+[13:00:09 INFO]: [Not Secure] <LL_ei> 你能不能走远点啊
+[13:00:53 INFO]: [Not Secure] <lja> 划羊
+
+[13:02:33 INFO]: [Not Secure] <LL_ei> 你能不能走远点啊
+[13:02:34 INFO]: [Not Secure] <LL_ei> 你能不能走远点啊
+[13:02:35 INFO]: [Not Secure] <LL_ei> 你能不能走远点啊
+[13:02:35 INFO]: [Not Secure] <LL_ei> 你能不能走远点啊
+[13:02:38 INFO]: [Not Secure] <LL_ei> 你能不能走远点啊
+[13:03:38 INFO]: [Not Secure] <LL_ei> 你他妈是傻逼是吧
+[13:04:05 INFO]: [Not Secure] <LL_ei> 你他吗不动别人东西会死是吧
+> ban lja
+[13:05:48 INFO]: Banned lja: Banned by an operator.
+
+
+
+
+
